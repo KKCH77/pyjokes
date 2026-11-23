@@ -8,6 +8,8 @@ http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke?page
 """
 
 neutral = [
+    "Why did the WSB student audit the open-source joke library? To make sure the punchlines didn't contain remote code execution!",
+    "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
     "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
     "Ubuntu users are apt to get this joke.",
     "Obfuscated Reality Mappers (ORMs) can be useful database tools.",
